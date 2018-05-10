@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<voicemail>
+<voicemail numeric="37002" carrier="ClaroDOM" vmnumber="*99" vmtag="clarodomvoicemail" />
+<voicemail numeric="46002" carrier="Chinanet" vmnumber="*99" vmtag="Chinanetvoicemail" />
+</voicemail>

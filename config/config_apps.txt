@@ -1,0 +1,50 @@
+指令[option]		包名[pkgName]												类名[clsName]																			路径[location]（如果路径有空格，要用英文下的双引号括起来）
+
+---------------------------------------------------------本地有apk包
+tool						com.ct.tool													.CtToolActivity																		apk\CtTool-debug.apk
+lantern					org.getlantern.lantern							.activity.LanternMainActivity											apk\lantern-android-beta.apk
+qq							com.tencent.mobileqq								.activity.SplashActivity													apk\QQ_432.apk
+qqmail					com.tencent.androidqqmail						com.tencent.qqmail.LaucherActivity								apk\QQyouxiang_1743821.apk
+wechat					com.tencent.mm											.ui.LauncherUI																		apk\WeChat_880.apk
+jinshan					com.ijinshan.kbatterydoctor					.SplashActivity																		apk\KBatteryDoctor.apk
+timer						com.android.timeslient							com.android.timeslient.SilentTimer								apk\BirdTimedTask.apk
+baidu						com.baidu.searchbox									com.baidu.searchbox.SplashActivity								apk\shoujibaidu_24449280.apk
+zhushou					com.baidu.appsearch									com.baidu.appsearch.LauncherActivity							apk\baidushoujizhushou_16792523.apk
+ifly						com.iflytek.inputmethod							com.iflytek.inputmethod.LauncherActivity					apk\iFlyME.apk
+yingsuo					com.github.shadowsocks							com.github.shadowsocks.Shadowsocks								apk\yingsuo.apk
+--------------------------------------------------手机中的一些apk信息
+alihomeconf			com.aliyun.homeshell								.tools.DB2ConfigXml
+mmitest					com.nbbsw.mmi_test									.MMITest
+factorytest			com.nbbsw.factory_test							.FactoryTest
+engimode				com.mediatek.engineermode						.EngineerMode
+settings				com.android.settings								.Settings
+mtklog					com.mediatek.mtklogger							.MainActivity
+
+setaccount			com.android.phone										.settings.PhoneAccountSettingsActivity
+guestmode				com.bird.guestmode									.GuestMode
+contacts 				com.android.contacts								.PeopleActivity
+camera		 			com.android.gallery3d								com.android.camera.CameraLauncher
+dialer 					com.android.dialer									.DialtactsActivity
+emial						com.android.email										.activity.Welcome
+gallery		 			com.android.gallery3d								.app.GalleryActivity
+homelq		 			com.lqsoft.launcher3.bird
+home5						com.android.launcher5.bird
+home						com.android.launcher3
+fm							com.mediatek.fmradio								.FmRadioActivity
+file						com.mediatek.filemanager						.FileManagerOperationActivity
+latin				 		com.android.inputmethod.latin
+mms 						com.android.mms											.ui.BootActivity
+torch						com.nbbsw.torch											.torch
+recorder				com.android.soundrecorder						.SoundRecorder
+
+--------------------------------------------------------------数据库
+contactdb			 	com.android.providers.contacts
+settingsdb 			com.android.providers.settings
+teledb					com.android.providers.telephony
+mediadb	 				com.android.providers.media
+downloaddb			com.android.providers.downloads
+calendardb			com.android.providers.calendar
+applicationsdb	com.android.providers.applications
+downloadsdb			com.android.providers.downloads.ui
+drmdb						com.mediatek.providers.drm
+dictdb					com.android.providers.userdictionary

@@ -1,0 +1,17 @@
+÷∏¡Ó[pullOptioin]			‘¥[pullFrom]
+
+tool									/mnt/sdcard/CtTool
+mak										/system/data/misc/ProjectConfig.mk
+build.prop						/system/build.prop
+custom.conf						/system/etc/custom.conf
+ecclist								/vendor/etc/ecc_list.xml
+apns									/system/etc/apns-conf.xml
+spns									/system/etc/spns-conf.xml
+vm										/system/etc/voicemail-conf.xml
+generic								/system/usr/keylayout/Generic.kl
+keylayout							/system/usr/keylayout
+keychars							/system/usr/keychars
+mtklogconf						/system/etc/mtklog-config.prop
+alihotline						/system/etc/custom/service_hotline.json
+packages							/data/system/packages.xml
+bgapp							/system/etc/bg_app_config.xml
